@@ -38,3 +38,7 @@ Evet, Go kurulumu ve ortam değişkenleride tamamlandı, bu yazı doğrultusunda
 Değişkenlerimizin kalıcı hale gelebilmesi için ise;
 # source $HOME/.bash_profile
 komutunu giriyoruz.
+
+# mod ve sum için
+go mod init main.go
+go mod tidy
