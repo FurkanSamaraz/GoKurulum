@@ -40,5 +40,7 @@ Değişkenlerimizin kalıcı hale gelebilmesi için ise;
 komutunu giriyoruz.
 
 # mod ve sum için
+
 go mod init main.go
+
 go mod tidy
