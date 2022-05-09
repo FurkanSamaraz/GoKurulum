@@ -33,7 +33,7 @@ Bu komutlar doğrultusunda masaüstüne GoProjects adında bir klasör oluşturd
 Go’nun paketlere erişmesi için PATH’e eklemek gerekiyor bunun tekrar profile dosyamı açıyorum;
 # nano $HOME/.bash_profile
 şu satırı ekliyorum;
-# export GOPATH=/Users/burak/Desktop/GoProjects
+# export GOPATH=/Users/furkan/Desktop/GoProjects
 Evet, Go kurulumu ve ortam değişkenleride tamamlandı, bu yazı doğrultusunda kendi tarafımda go get ile indirdiğim paketler ve kendi paketlerim doğru şekilde çalışıyor.
 Değişkenlerimizin kalıcı hale gelebilmesi için ise;
 # source $HOME/.bash_profile
